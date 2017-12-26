@@ -15,10 +15,10 @@
  * ส่วนนี้ copy ไปวางใน wp-config.php หลังจากแถวของ $table_prefix
  * เปลี่ยนเป็นค่าตามจริงที่เรียกใช้งาน
  */
-define('PUSH_URL', 'http://applesblossomshop.local');
+define('PUSH_URL', 'http://example-site.local');
 define('FILE_PUSH', '/wp-admin/setuser_api.php');
 define('ADMIN_USERNAME', 'admin');
-define('ADMIN_PASSNAME', 'ad1234');
+define('ADMIN_PASSNAME', '1234');
 //------------------------------------------------------------------------------
 
 
